@@ -1,0 +1,5 @@
+<linker>
+	<assembly fullname="Unity.XR.OpenXR.Features.MetaQuestSupport">
+		<type fullname="UnityEngine.XR.OpenXR.Features.MetaQuestSupport.MetaQuestFeature/TargetDevice" preserve="nothing" serialized="true"/>
+	</assembly>
+</linker>
