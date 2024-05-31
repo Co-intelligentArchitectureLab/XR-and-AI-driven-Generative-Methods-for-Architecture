@@ -1,0 +1,56 @@
+{
+    "AgentCube": {
+        "checkpoints": [
+            {
+                "steps": 499979,
+                "file_path": "results\\ppo\\AgentCube\\AgentCube-499979.onnx",
+                "reward": -345.3882293701172,
+                "creation_time": 1683783693.822024,
+                "auxillary_file_paths": [
+                    "results\\ppo\\AgentCube\\AgentCube-499979.pt"
+                ]
+            },
+            {
+                "steps": 999993,
+                "file_path": "results\\ppo\\AgentCube\\AgentCube-999993.onnx",
+                "reward": -117.00592613220215,
+                "creation_time": 1683784117.520001,
+                "auxillary_file_paths": [
+                    "results\\ppo\\AgentCube\\AgentCube-999993.pt"
+                ]
+            },
+            {
+                "steps": 1499991,
+                "file_path": "results\\ppo\\AgentCube\\AgentCube-1499991.onnx",
+                "reward": null,
+                "creation_time": 1683784514.6005573,
+                "auxillary_file_paths": [
+                    "results\\ppo\\AgentCube\\AgentCube-1499991.pt"
+                ]
+            },
+            {
+                "steps": 1500008,
+                "file_path": "results\\ppo\\AgentCube\\AgentCube-1500008.onnx",
+                "reward": -72.36600494384766,
+                "creation_time": 1683784514.6242535,
+                "auxillary_file_paths": [
+                    "results\\ppo\\AgentCube\\AgentCube-1500008.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1500008,
+            "file_path": "results\\ppo\\AgentCube.onnx",
+            "reward": -72.36600494384766,
+            "creation_time": 1683784514.6242535,
+            "auxillary_file_paths": [
+                "results\\ppo\\AgentCube\\AgentCube-1500008.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.0.0"
+    }
+}

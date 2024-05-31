@@ -1,0 +1,29 @@
+{
+    "AgentCube": {
+        "checkpoints": [
+            {
+                "steps": 18184,
+                "file_path": "results\\imitation_test09\\AgentCube\\AgentCube-18184.onnx",
+                "reward": -3997.6000061035156,
+                "creation_time": 1683794434.1211262,
+                "auxillary_file_paths": [
+                    "results\\imitation_test09\\AgentCube\\AgentCube-18184.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 18184,
+            "file_path": "results\\imitation_test09\\AgentCube.onnx",
+            "reward": -3997.6000061035156,
+            "creation_time": 1683794434.1211262,
+            "auxillary_file_paths": [
+                "results\\imitation_test09\\AgentCube\\AgentCube-18184.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.0.0"
+    }
+}

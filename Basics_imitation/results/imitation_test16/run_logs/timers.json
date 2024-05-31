@@ -1,0 +1,42 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1683798746",
+        "python_version": "3.9.16 (main, Mar  8 2023, 10:39:24) [MSC v.1916 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\ProgramData\\Anaconda3\\envs\\tf_gpu\\Scripts\\mlagents-learn D:\\Unity_projects\\Basics_imitation\\basic_imitation.yaml --run-id=imitation_test16",
+        "mlagents_version": "0.30.0",
+        "mlagents_envs_version": "0.30.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "2.0.0",
+        "numpy_version": "1.21.2",
+        "end_time_seconds": "1683798814"
+    },
+    "total": 67.31056240000001,
+    "count": 1,
+    "self": 0.00395990000001234,
+    "children": {
+        "run_training.setup": {
+            "total": 0.05579059999999991,
+            "count": 1,
+            "self": 0.05579059999999991
+        },
+        "TrainerController.start_learning": {
+            "total": 67.2508119,
+            "count": 1,
+            "self": 7.999999999697138e-05,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 67.2507098,
+                    "count": 1,
+                    "self": 67.2507098
+                },
+                "TrainerController._save_models": {
+                    "total": 2.2100000009572796e-05,
+                    "count": 1,
+                    "self": 2.2100000009572796e-05
+                }
+            }
+        }
+    }
+}
