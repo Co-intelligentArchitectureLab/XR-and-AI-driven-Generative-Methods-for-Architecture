@@ -2,85 +2,85 @@
     "AgentCube": {
         "checkpoints": [
             {
-                "steps": 499962,
-                "file_path": "results\\imitation_test22\\AgentCube\\AgentCube-499962.onnx",
-                "reward": -119.62173896250518,
-                "creation_time": 1683802376.4976847,
+                "steps": 499972,
+                "file_path": "results\\imitation_test22\\AgentCube\\AgentCube-499972.onnx",
+                "reward": -505.8289471676475,
+                "creation_time": 1717136913.941536,
                 "auxillary_file_paths": [
-                    "results\\imitation_test22\\AgentCube\\AgentCube-499962.pt"
+                    "results\\imitation_test22\\AgentCube\\AgentCube-499972.pt"
                 ]
             },
             {
-                "steps": 999965,
-                "file_path": "results\\imitation_test22\\AgentCube\\AgentCube-999965.onnx",
-                "reward": 15.778161081774481,
-                "creation_time": 1683802817.204064,
+                "steps": 999997,
+                "file_path": "results\\imitation_test22\\AgentCube\\AgentCube-999997.onnx",
+                "reward": 15.73969180413983,
+                "creation_time": 1717137428.7856834,
                 "auxillary_file_paths": [
-                    "results\\imitation_test22\\AgentCube\\AgentCube-999965.pt"
+                    "results\\imitation_test22\\AgentCube\\AgentCube-999997.pt"
                 ]
             },
             {
-                "steps": 1499938,
-                "file_path": "results\\imitation_test22\\AgentCube\\AgentCube-1499938.onnx",
-                "reward": 40.85454567995939,
-                "creation_time": 1683803246.8587165,
+                "steps": 1499995,
+                "file_path": "results\\imitation_test22\\AgentCube\\AgentCube-1499995.onnx",
+                "reward": 6.1981479974440585,
+                "creation_time": 1717137981.134074,
                 "auxillary_file_paths": [
-                    "results\\imitation_test22\\AgentCube\\AgentCube-1499938.pt"
+                    "results\\imitation_test22\\AgentCube\\AgentCube-1499995.pt"
                 ]
             },
             {
-                "steps": 1999982,
-                "file_path": "results\\imitation_test22\\AgentCube\\AgentCube-1999982.onnx",
-                "reward": 154.13333263397217,
-                "creation_time": 1683803671.4248586,
+                "steps": 1999969,
+                "file_path": "results\\imitation_test22\\AgentCube\\AgentCube-1999969.onnx",
+                "reward": 44.61276559626803,
+                "creation_time": 1717138516.2898512,
                 "auxillary_file_paths": [
-                    "results\\imitation_test22\\AgentCube\\AgentCube-1999982.pt"
+                    "results\\imitation_test22\\AgentCube\\AgentCube-1999969.pt"
                 ]
             },
             {
-                "steps": 2499944,
-                "file_path": "results\\imitation_test22\\AgentCube\\AgentCube-2499944.onnx",
-                "reward": 231.84878030637415,
-                "creation_time": 1683804093.6684697,
+                "steps": 2499939,
+                "file_path": "results\\imitation_test22\\AgentCube\\AgentCube-2499939.onnx",
+                "reward": 61.56592561933729,
+                "creation_time": 1717139022.2115393,
                 "auxillary_file_paths": [
-                    "results\\imitation_test22\\AgentCube\\AgentCube-2499944.pt"
+                    "results\\imitation_test22\\AgentCube\\AgentCube-2499939.pt"
                 ]
             },
             {
-                "steps": 2999986,
-                "file_path": "results\\imitation_test22\\AgentCube\\AgentCube-2999986.onnx",
-                "reward": 182.42857125827246,
-                "creation_time": 1683804517.0713866,
+                "steps": 2999966,
+                "file_path": "results\\imitation_test22\\AgentCube\\AgentCube-2999966.onnx",
+                "reward": 94.68124963343143,
+                "creation_time": 1717139511.0800407,
                 "auxillary_file_paths": [
-                    "results\\imitation_test22\\AgentCube\\AgentCube-2999986.pt"
+                    "results\\imitation_test22\\AgentCube\\AgentCube-2999966.pt"
                 ]
             },
             {
-                "steps": 3499941,
-                "file_path": "results\\imitation_test22\\AgentCube\\AgentCube-3499941.onnx",
-                "reward": 317.89411679436176,
-                "creation_time": 1683804938.5976117,
+                "steps": 3499944,
+                "file_path": "results\\imitation_test22\\AgentCube\\AgentCube-3499944.onnx",
+                "reward": 80.10588127024033,
+                "creation_time": 1717140001.4128373,
                 "auxillary_file_paths": [
-                    "results\\imitation_test22\\AgentCube\\AgentCube-3499941.pt"
+                    "results\\imitation_test22\\AgentCube\\AgentCube-3499944.pt"
                 ]
             },
             {
-                "steps": 3500005,
-                "file_path": "results\\imitation_test22\\AgentCube\\AgentCube-3500005.onnx",
-                "reward": 317.89411679436176,
-                "creation_time": 1683804938.6201158,
+                "steps": 3500072,
+                "file_path": "results\\imitation_test22\\AgentCube\\AgentCube-3500072.onnx",
+                "reward": 80.10588127024033,
+                "creation_time": 1717140001.4516742,
                 "auxillary_file_paths": [
-                    "results\\imitation_test22\\AgentCube\\AgentCube-3500005.pt"
+                    "results\\imitation_test22\\AgentCube\\AgentCube-3500072.pt"
                 ]
             }
         ],
         "final_checkpoint": {
-            "steps": 3500005,
+            "steps": 3500072,
             "file_path": "results\\imitation_test22\\AgentCube.onnx",
-            "reward": 317.89411679436176,
-            "creation_time": 1683804938.6201158,
+            "reward": 80.10588127024033,
+            "creation_time": 1717140001.4516742,
             "auxillary_file_paths": [
-                "results\\imitation_test22\\AgentCube\\AgentCube-3500005.pt"
+                "results\\imitation_test22\\AgentCube\\AgentCube-3500072.pt"
             ]
         }
     },

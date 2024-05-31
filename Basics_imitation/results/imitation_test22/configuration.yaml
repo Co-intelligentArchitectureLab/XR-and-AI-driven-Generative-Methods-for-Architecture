@@ -55,7 +55,7 @@ behaviors:
     checkpoint_interval: 500000
     max_steps: 3500000
     time_horizon: 64
-    summary_freq: 60000
+    summary_freq: 50000
     threaded: false
     self_play: null
     behavioral_cloning:
@@ -79,7 +79,7 @@ engine_settings:
   width: 84
   height: 84
   quality_level: 5
-  time_scale: 20
+  time_scale: 20.0
   target_frame_rate: -1
   capture_frame_rate: 60
   no_graphics: false
@@ -89,10 +89,10 @@ checkpoint_settings:
   initialize_from: null
   load_model: false
   resume: false
-  force: false
+  force: true
   train_model: false
   inference: false
   results_dir: results
 torch_settings:
-  device: cpu
+  device: cuda
 debug: false
